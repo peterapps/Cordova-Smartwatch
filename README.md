@@ -1,4 +1,4 @@
-# PhoneGap Smartwatch
+# Cordova Smartwatch
 A Cordova plugin with support for Apple Watch and Android Wear
 
 * [Apple Watch Plugin for Apache Cordova](https://github.com/leecrossley/cordova-plugin-apple-watch)
